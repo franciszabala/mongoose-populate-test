@@ -1,0 +1,10 @@
+{
+  "name": "MongoosePopulateTest",
+  "author": "Francis Zabala",
+  "version": "0.0.1",
+  "description": "Runnable Sample Application",
+  "dependencies": {
+    		    "mongoose": "^4.3.5"
+   },
+  "engine": "node 0.10.x"
+}
